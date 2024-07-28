@@ -2,6 +2,8 @@
 
 Animeview is a website where users can post reviews of their favorite anime. The website is built using WordPress and PHP, with the help of plugins like WPForms and Elementor.
 
+![Screenshot 2024-07-21 165759](https://github.com/user-attachments/assets/ba91fc33-cdcc-492d-a384-10e5637ba538)
+
 ## Features
 
 - Users can post and read anime reviews.
