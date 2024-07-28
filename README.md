@@ -10,6 +10,9 @@ Animeview is a website where users can post reviews of their favorite anime. The
 - Uses Elementor for building custom page layouts.
 - WPForms is used for creating forms.
 
+![Screenshot 2024-07-21 165727](https://github.com/user-attachments/assets/298d49e5-8175-45bc-b5a9-096769600d1b)
+
+
 ## Installation
 
 To set up the Animeview project on your local machine, follow these steps:
