@@ -38,6 +38,8 @@ To set up the Animeview project on your local machine, follow these steps:
 6. Run the project
    - Open your browser and go to `http://localhost/yourprojectdirectory`.
 
+![Screenshot 2024-07-21 165829](https://github.com/user-attachments/assets/ca55a31a-7e2e-4371-9479-08b3a9efe83a)
+
 ## Usage
 
 1. **Posting Reviews:**
