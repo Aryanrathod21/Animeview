@@ -49,14 +49,6 @@ To set up the Animeview project on your local machine, follow these steps:
 2. **Reading Reviews:**
    - Browse through the blog posts to read reviews posted by other users.
 
-## Contributing
-
-Contributions are welcome! Please create a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 - **Name**: Aryan Rathod
